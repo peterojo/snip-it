@@ -1,0 +1,35 @@
+body {
+	background-color: #222222;
+	width: 95%;
+	margin: auto;
+	color: #FFF;
+}
+
+.container {
+	margin-top: 1em;
+	position: relative;
+}
+
+.jumbotron {
+	margin-top: 100px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+textarea {
+	width: 100%;
+	min-height: 500px;
+	border: none;
+	outline: 0;
+	background-color: #222222;
+	font-family: monospace;
+	box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+}
+
+.nav {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
